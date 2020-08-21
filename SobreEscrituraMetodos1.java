@@ -276,8 +276,6 @@ public class SobreEscrituraMetodos1 {
        break;
      }
     }
-    else{
-        System.out.println("\nFue un gusto servirle");
-       }
+    
   }
 }
